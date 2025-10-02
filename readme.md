@@ -2,6 +2,8 @@
 
 ### ⚠️ **Projeto Marketplace**
 
+<img width="1087" height="722" alt="angular" src="https://github.com/user-attachments/assets/67e6c4fe-31f2-49d5-9dab-f6a273c0ece0" />
+
 ---
 
 ### 📂 Descrição do Projeto
