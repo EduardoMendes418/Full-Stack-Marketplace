@@ -1,8 +1,8 @@
 # Angular v20 na Rocketseat
 
 ### 🚀 **Projeto Marketplace**
+<img width="847" height="614" alt="Marketplace" src="https://github.com/user-attachments/assets/44d2b4ed-d53b-42d6-924a-e6fe999c5206" />
 
-<img width="1087" height="722" alt="angular" src="https://github.com/user-attachments/assets/67e6c4fe-31f2-49d5-9dab-f6a273c0ece0" />
 
 ---
 
